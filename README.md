@@ -10,6 +10,10 @@ Longhorn SPDK Engine is v2 data engine that integrates the performance and effic
 
 Please check [the main repo](https://github.com/longhorn/longhorn#community) for the contributing guide.
 
+### AI-Assisted Development
+
+If you're using AI assistants or LLMs to contribute to this project, please review our [AI-Assisted Development Guidelines](docs/AI_ASSISTED_DEVELOPMENT.md) to learn best practices for reducing AI hallucinations and ensuring high-quality contributions.
+
 ## License
 Copyright (c) 2021-2024 The Longhorn Authors
 
